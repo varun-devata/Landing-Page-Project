@@ -1,0 +1,128 @@
+<style>
+		pre{
+			font-size: 1.5em;
+			font-family:Tahoma;
+		}
+		header{
+			background-color: rgb(255, 255, 255 , 0.5);
+			height: 2em;
+			text-align: right;
+			padding: 2em;
+			color: black;
+			margin-left: 20px;
+			align-items: center;
+			border-radius: 15;
+			float: fixed;
+		}
+		ul {
+		position: fixed;
+ 		top: 10px;
+ 		width: 100%;
+		border-radius: 20px;
+  		list-style-type: none;
+  		margin: 0;
+  		padding: 0;
+  		overflow: hidden;
+  		background-color: rgb(255, 255, 255, 0.2);
+  		font-size: 1.5em;
+	}
+
+	li {
+  		float: right;
+	}
+
+	li a {
+  		display: block;
+  		color: black;
+		text-align: center;
+  		padding: 14px 16px;
+		text-decoration: none;
+	}
+
+	li a:hover {
+ 			 background-color: grey;
+	}
+		input{
+  			border-radius: 5px;
+  		}
+  		textarea{
+  			border-radius: 5px;
+  		}
+		.logo{
+			margin-top: 7em;
+			margin-right: 10em;
+			margin-left: 45em;
+
+		}
+		body{
+			background-image: url("img/bg.webp");
+			background-repeat: no-repeat;
+			background-attachment: fixed;
+			background-size: cover;
+		}
+		.home{
+            scroll-behavior: smooth;
+			margin: 0;
+			padding: 0;
+		}
+		.login{
+            scroll-behavior: smooth;
+			background-color: rgb(0, 0, 0 , 0.1);
+			border: 3px dashed black;
+			border-radius: 25px;
+            margin: 50em 30em 0em 30em;
+			padding: 3em;
+			text-align: center;
+		}
+		.story{
+            scroll-behavior: smooth;
+			margin: 20em 10em 0em 10em;
+			background-color: rgb(0, 0, 0 , 0.1);
+			border-radius: 20px;
+			padding: 3em;
+			text-align: center;
+			font-size: 1.2em;
+
+		}
+		.ourtechnology{
+            scroll-behavior: smooth;
+            margin: 0em 10em;
+			background-color: rgb(0, 0, 0 , 0.1);
+			border-radius: 20px;
+			padding: 3em;
+			text-align: center;
+			font-size: 1.2em;
+
+
+		}
+		.visionmission{
+            scroll-behavior: smooth;
+			margin: 30em 10em 0em 10em;
+			background-color: rgb(0, 0, 0 , 0.1);
+			border-radius: 25px;
+            padding: 3em 6em 3em 6em;
+			text-align: center;
+			font-family: Tahoma;
+			font-size: 1.2em;
+
+		}
+		.contactus{
+            scroll-behavior: smooth;
+			border: 3px dashed black;
+			border-radius: 25px;
+			background-color: rgb(0, 0, 0 , 0.1);
+            padding: 1em 3em 1em 3em;
+            margin: 35em 25em 3em 25em;
+			margin-left: 25em;
+			margin-right: 25em;
+			text-align: center;
+			font-family: Tahoma;
+			font-size: 1.2em;
+		}
+		.p{
+			font-size: 1em;
+		}
+		.hr{
+			color: blanchedalmond;
+		}
+	</style>
